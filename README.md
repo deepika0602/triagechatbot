@@ -64,6 +64,13 @@ Example: “I have chest pain and trouble breathing.”
 
 ---
 
+## 👥 Team Members
+- P. Deepika – 23951A0524  
+- N. Jahnavi – 23951A0538  
+- M. Harshitha – 23951A0531
+  
+---
+
 ## ⚡ How to Run
 
 ```bash
@@ -76,9 +83,3 @@ npm install
 
 # Start the server
 node server.js
-
-
-## 👥 Team Members
-- P. Deepika – 23951A0524  
-- N. Jahnavi – 23951A0538  
-- M. Harshitha – 23951A0531  
