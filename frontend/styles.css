@@ -1,0 +1,8 @@
+body { font-family: Arial; background: #f0f0f0; }
+#chatbox { width: 450px; margin: 50px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #aaa; }
+#messages { height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; }
+.message { margin: 5px 0; }
+.user { color: blue; }
+.bot { color: green; }
+input { width: 75%; padding: 10px; }
+button { padding: 10px; }

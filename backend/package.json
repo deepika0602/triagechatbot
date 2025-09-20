@@ -1,0 +1,16 @@
+{
+  "name": "triage-chatbot",
+  "version": "1.0.0",
+  "description": "Database-driven triage chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
